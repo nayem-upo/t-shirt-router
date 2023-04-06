@@ -1,0 +1,9 @@
+.nav-main{
+    display: flex;
+    gap: 20px;
+    font-size: large;
+}
+.nav-main a{
+    text-decoration: none;
+    color: black;
+}
